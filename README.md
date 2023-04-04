@@ -6,7 +6,7 @@ Access to the database where the AspNetRoles, AspNetUsers, and AspNetUserRole ta
 Basic understanding of SQL and how to run SQL queries.
 
 
-## Steps to give admin account access to admin
+## Steps to give admin user access to admin privileges
 1. Register an account for the admin user in the system. Make sure to collect the necessary user information such as email, password, and other required fields.
 
 2. From the AspNetRoles table in the database, set the following values for the admin role:
