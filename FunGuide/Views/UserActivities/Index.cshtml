@@ -1,0 +1,58 @@
+﻿@model IEnumerable<FunGuide.Models.UserActivities>
+
+
+@{
+    ViewData["Title"] = "Index - ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*//<h1>Index</h1>*@
+<br/>
+
+    @if (User.IsInRole("Admin"))
+    {
+        <p align="center">The following are the bookings of the customers. </p>
+    }
+    else{
+<p align="center">The following are your activity booking. Please visit the store at 23 Tampines Street, Singapore 0620 for the payment and collection of tickets. Thank you.</p>
+ }
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Activities.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Activities.Price)
+            </th>
+            @if (User.IsInRole("Admin"))
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.User)
+                </th>
+            }           
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Activities.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Activities.Price)
+            </td>
+                @if (User.IsInRole("Admin"))
+                {
+                    <th>
+                        @Html.DisplayFor(modelItem => item.User.UserName)
+                    </th>
+                }
+            <td>
+                @Html.ActionLink("Cancel", "Delete", new { id = item.ActivityId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

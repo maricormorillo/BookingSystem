@@ -1,0 +1,27 @@
+﻿@model List<FunGuide.Areas.Data.AppUser>
+
+<table class="table table-bordered">
+    <tr class="bg-secondary text-center text-white">
+        <th>First Name</th>
+        <th>Last Name</th>
+        @*<th>Username</th>*@
+        <th>Email</th>
+        <th>Username</th>
+     @*   <th>Role</th>*@
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.FirstName</td>
+            <td>@user.LastName</td>
+            @*<td>@user.UserName</td>*@
+            <td>@user.Email</td>
+            <td>@user.UserName</td>
+           @* <td>@user.Role</td>*@
+            <td class="text-center"><a class="btn btn-sm btn-secondary" asp-action="Edit" asp-area="" asp-route-id="@user.Id">Edit</a></td>
+            <td class="text-center"><a class="btn btn-sm btn-secondary" asp-action="Delete" asp-area="" asp-route-id="@user.Id">Delete</a></td>
+        </tr>
+    }
+</table>

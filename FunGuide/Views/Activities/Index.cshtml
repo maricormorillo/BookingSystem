@@ -1,0 +1,91 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@using FunGuide.Areas.Data;
+@model FunGuide.Models.ActivitiesCategoryViewModel
+@*@model IEnumerable<FunGuide.Models.Activities>*@
+
+@inject SignInManager<AppUser> SignInManager
+@inject UserManager<AppUser> UserManager
+
+@{
+    ViewData["Title"] = "Index - ";
+}
+
+@*<h1>List of Activities</h1>*@
+<br />
+
+<h4 align="center">
+    Find your special local experience
+</h4><br />
+<form asp-controller="Activities" asp-action="Index" method="get">
+    <p align="center">
+
+        @*<select asp-for="ActivitiesCategory" asp-items="Model.Category">
+        <option value="">All</option>
+        </select>*@
+
+        <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Search" />
+    </p>
+</form>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Activities![0].Name)
+            </th>
+            @*<th>
+            @Html.DisplayNameFor(model => model.Activities![0].Description)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Activities![0].Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Activities![0].Price)
+            </th>
+             @if (SignInManager.IsSignedIn(User))
+             {
+                 <th>Book Now</th>
+             }
+                    </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Activities!)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Name)</a>
+                </td>
+                @*<td>
+            @Html.DisplayFor(modelItem => item.Description)
+            </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                  @if (SignInManager.IsSignedIn(User))
+                    {
+
+                            @Html.ActionLink("Add","AssignUserActivity","UserActivities",new{ activityId = @item.Id})
+                            @*<a asp-action="AddToCart" asp-route-id="@item.Id">Add to Cart</a>*@
+                            @*<a href="@Url.Action("AddToCart", "Cart", new { Id = item.Id})">Add to Cart</a>*@
+                            @*    <a asp-action="AddToCart" asp-route-id="@item.Id">Add to Cart</a> *@
+                            @* @Html.ActionLink("Add to Cart","OrderNow","ShoppingCart",new{id = item.Id},null)*@
+                            @*  @*<a asp-action="Details" asp-route-id="@item.Id">Select</a>*@
+                            @* <input type="text" asp-for="AddtoCart" />*@
+                            @*<input type="submit" value="Add to Cart" />*@
+                            @*<input type="submit" asp-for="AddToCart" value="Add to Cart" />*@
+                        
+                        
+
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
