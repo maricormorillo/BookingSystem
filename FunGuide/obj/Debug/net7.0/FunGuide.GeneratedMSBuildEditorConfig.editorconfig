@@ -9,173 +9,173 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FunGuide
 build_property.RootNamespace = FunGuide
-build_property.ProjectDir = C:\Users\admin\source\FunGuide - CICD A2\FunGuide\FunGuide\
+build_property.ProjectDir = C:\Users\guta820\source\repos\BookingSystem\FunGuide\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\admin\source\FunGuide - CICD A2\FunGuide\FunGuide
+build_property.MSBuildProjectDirectory = C:\Users\guta820\source\repos\BookingSystem\FunGuide
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Activities/ActivityDetails.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Activities/ActivityDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdGllc1xBY3Rpdml0eURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Activities/ActivityList.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Activities/ActivityList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdGllc1xBY3Rpdml0eUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Activities/Create.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Activities/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdGllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Activities/Delete.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Activities/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdGllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Activities/Details.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Activities/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdGllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Activities/Edit.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Activities/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdGllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Activities/Index.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Activities/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdGllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Home/Career.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Home/Career.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJlZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Home/ContactUs.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Home/Index.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Home/Privacy.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Home/ShoppingCart.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Home/ShoppingCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wcGluZ0NhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Home/xAboutUs.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Home/xAboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx4QWJvdXRVcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Home/xActivityList.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Home/xActivityList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx4QWN0aXZpdHlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Order/Index.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Shared/Error.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/UserActivities/Create.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/UserActivities/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjdGl2aXRpZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/UserActivities/Delete.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/UserActivities/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjdGl2aXRpZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/UserActivities/Details.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/UserActivities/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjdGl2aXRpZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/UserActivities/Edit.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/UserActivities/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjdGl2aXRpZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/UserActivities/Index.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/UserActivities/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjdGl2aXRpZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/User/Delete.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/User/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/User/Edit.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/User/Index.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/User/xDetails.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/User/xDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclx4RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/_ViewImports.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/_ViewStart.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/FunGuide - CICD A2/FunGuide/FunGuide/Views/Shared/_Layout.cshtml]
+[C:/Users/guta820/source/repos/BookingSystem/FunGuide/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-m8qqzja9fm
